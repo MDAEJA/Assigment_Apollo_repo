@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="circle.css">
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+    <title>Your Website</title>
+</head>
+<script>
+    function selectPricingPlan(planName, price) {
+      // Update the content of the element with the class 'jss163'
+      var jss163Element = document.querySelector('.jss163');
+      jss163Element.innerHTML = '<b>Proceed to checkout - ₹ ' + price + '</b>';
+
+    }
+    function toggleAnswer(id) {
+        var answer = document.getElementById('answer' + id);
+        answer.style.display = (answer.style.display === 'block' || answer.style.display === '') ? 'none' : 'block';
+    }
+   </script>
+<body>
+    <div class="wrapper">
+        <header>
+
+            <nav class="nav_img">
+                <div class="apoloimg">
+                <img src="https://images.apollo247.in/images/ic_logo.png" alt="apollo-image" width="100%" height="100%"/>
+                </div>
+            </nav>
+    
+            <nav class="para">
+    
+            <nav class="navbar">
+                <nav class="navbar1">
+                    <a href="../Consult page/consult.html">CONSULT</a>
+                    <p>Consult<br>Online</p>
+                </nav>
+    
+                <nav class="navbar1">
+                    <a href="../Consult page/consult.html">MEDICINES</a>
+                    <p>Medicines &<br>other products</p>
+                </nav>
+
+                <nav class="navbar1">
+                    <a href="#cirle">CIRCLE</a>
+                    <p>Free Delivery<br>& Cashback</p>
+                </nav>
+    
+                <nav class="navbar1">
+                    <a href="../Lab_Test/index.html">LAB TESTS</a>
+                    <p>Health<br>check-ups</p>
+                </nav>
+    
+                <nav class="navbar1">
+                    <a href="../Health Records/index.html">HEALTH RECORDS</a>
+                    <p>Lab Reports &<br>Consultations</p>
+                </nav>
+    
+                <nav class="navbar1">
+                    <a href="../Apollo circle/circle.html">CIRCLE</a>
+                    <p>Free Delivery<br>& Cashback</p>
+                </nav>
+                
+    
+                <nav class="addtocart">
+                    <img src="./Images/add_cart.png" alt="" width="100%" height="100%"/>
+                </nav>
+                
+                <nav class="signup">
+                    <img src="./Images/login.png" alt="" width="100%" height="100%"/>
+                </nav>
+    
+                </nav>
+    
+            </nav>
+            
+          </header>
+
+        <div class="banner">
+            <img src="Images/banner.jpg" alt="Banner Image">
+        </div>
+
+        <div class="benefit-section">
+            <h2> <img src="https://images.apollo247.in/images/circle.svg" alt="">BENEFITS</h2>
+            <div class="benefit-grid">
+                <div class="benefit-item">
+                    <div class="benefit-image">
+                        <img src="https://newassets.apollo247.com/images/circle/pharmacy_benefit.png" alt="Logo 1" width="50">
+                    </div>
+                    <div class="benefit-content">
+                        <h3>Extra 5% Cashback</h3>
+                        <p>Save every time you order medicines and healthcare essentials</p>
+                    </div>
+                </div>
+                <div class="benefit-item">
+                    <div class="benefit-image">
+                        <img src="https://newassets.apollo247.com/images/circle/free_delivery.png" alt="Logo 1" width="50">
+                    </div>
+                    <div class="benefit-content">
+                        <h3>Unlimited Free Delivery*</h3>
+                        <p>Get all your orders delivered within 2 hours* at no extra charges</p>
+                    </div>
+                </div>
+                <div class="benefit-item">
+                    <div class="benefit-image">
+                        <img src="https://newassets.apollo247.com/images/circle/doctor_consultations.png" alt="Logo 1" width="50">
+                    </div>
+                    <div class="benefit-content">
+                        <h3>Up to Rs.150 off on consultations</h3>
+                        <p>Consult expert doctors from an array of specialities</p>
+                    </div>
+                </div>
+                <div class="benefit-item">
+                    <div class="benefit-image">
+                        <img src="https://newassets.apollo247.com/images/circle/lab_tests.png" alt="Logo 1" width="50">
+                    </div>
+                    <div class="benefit-content">
+                        <h3>Flat 7% cashback on Lab Tests</h3>
+                        <p>Doorstep sample collection in 30 minutes with same-day reports*</p>
+                    </div>
+                </div>
+                <div class="benefit-item">
+                    <div class="benefit-image">
+                        <img src="https://newassets.apollo247.com/images/circle/digital_records.png" alt="Logo 1" width="50">
+                    </div>
+                    <div class="benefit-content">
+                        <h3>Digitise Your Medical History/Record in One Convenient Place</h3>
+                        <p>Connect through WhatsApp to upload your medical records</h5></p>
+                    </div>
+                </div>
+                <div class="benefit-item">
+                    <div class="benefit-image">
+                        <img src="https://newassets.apollo247.com/images/circle/pro_health.png" alt="Logo 1" width="50">
+                    </div>
+                    <div class="benefit-content">
+                        <h3>Redefine your Health with ProHealth</h3>
+                        <p>Personalised health risk assessment to help you understand what you are at risk for</p>
+                    </div>
+                </div>
+                <div class="benefit-item">
+                    <div class="benefit-image">
+                        <img src="https://newassets.apollo247.com/images/circle/emergency_doctors.png" alt="Logo 1" width="50">
+                    </div>
+                    <div class="benefit-content">
+                        <h3>Access to Emergency Doctor on Call 24|7</h3>
+                        <p>You now have complimentary access to Apollo Doctors, any time of the day</p>
+                    </div>
+                </div>
+            
+
+                <!-- Add more benefit items as needed -->
+            </div>
+        </div>
+
+
+        <div class="pricing-section">
+            <h3>UPGRADE TO YOUR <img src="https://images.apollo247.in/images/circle.svg" alt=""> PLAN</h3>
+            <div class="pricing-images">
+                <div class="pricing-item" onclick="selectPricingPlan('Bronze Plan', '99')">
+                    <img src="Images/left_image.png" alt="Left" width="180" height="160" data-price="19.99">
+                    <div class="tickbox" id="tickbox1"></div>
+                </div>
+                <div class="pricing-item" onclick="selectPricingPlan('Silver Plan', '199')">
+                    <img src="Images/center_image.png" alt="Center" width="180" height="160" data-price="19.99">
+                    <div class="tickbox" id="tickbox1"></div>
+                </div>
+                <div class="pricing-item" onclick="selectPricingPlan('Gold Plan', '299')">
+                    <img src="Images/right_image.png" alt="Right" width="180" height="160" data-price="19.99">
+                    <div class="tickbox" id="tickbox1"></div>
+                </div>
+                </div>
+        </div>
+
+
+        
+        <div class="jss159">
+            <div class="jss161">
+                <div class="jss162">
+                    <div class="jss163">
+                        <b>Proceed to checkout- ₹ 99</b>
+                    </div><div class="jss164">
+                        <button class="jss166">GO BACK</button>
+                        <button class="jss165">Upgrade</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="faq-section">
+            <h2 style="margin-left: 12px;">Frequently asked questions</h2>
+            <div class="faq-item" onclick="toggleAnswer(1)">
+                <div class="question">
+                  <span class="question-text">What is the Apollo 24|7 CIRCLE membership programme?</span>
+                  <span class="arrow">
+                    <img src="https://images.apollo247.in/images/ic_accordion_down.svg" alt="Expand">
+                  </span>
+                </div>
+                <div class="answer" id="answer1">Apollo 24|7 CIRCLE membership is a one-of-its-kind membership designed to deliver the best care and value to its subscribers. Once you sign up with the plan, you will receive benefits such as priority access to doctors, cashback on medicines, free home delivery on a priority basis, and discounts on doctor consultations and lab tests.</div>
+            </div>
+            <div class="faq-item" onclick="toggleAnswer(2)">
+                <div class="question">
+                    <span class="question-text">How many plans available for CIRCLE membership?</span>
+                    <span class="arrow">
+                      <img src="https://images.apollo247.in/images/ic_accordion_down.svg" alt="Expand">
+                    </span>
+                </div>
+                <div class="answer" id="answer2">There are 3 plans available for you to choose from: Rs 99 for 2 months, Rs 199 for 6 months, and Rs 299 for 12 months.</div>
+            </div>
+                <div class="faq-item" onclick="toggleAnswer(3)">
+                <div class="question">
+                    <span class="question-text">How do i sign up for CIRCLE membership?</span>
+                    <span class="arrow">
+                      <img src="https://images.apollo247.in/images/ic_accordion_down.svg" alt="Expand">
+                    </span>
+                </div>
+                <div class="answer" id="answer3">It''s simple! If you''re a part of Apollo 24|7 already, you can click on the link above and sign up. If you''re new to Apollo 24|7, download the app today and get started.</div>
+            </div>
+            <div class="faq-item" onclick="toggleAnswer(4)">
+                <div class="question">
+                    <span class="question-text">Is annual membership better than monthly membership?</span>
+                    <span class="arrow">
+                      <img src="https://images.apollo247.in/images/ic_accordion_down.svg" alt="Expand">
+                    </span>
+                </div>
+                <div class="answer" id="answer4">Yes, if you want to save big! The yearly membership only costs you Rs.299, which translates to Rs.25 per month.</div>
+            </div>
+            <div class="faq-item" onclick="toggleAnswer(5)">
+                <div class="question">
+                    <span class="question-text">Where will I get CIRCLE cashback?</span>
+                    <span class="arrow">
+                      <img src="https://images.apollo247.in/images/ic_accordion_down.svg" alt="Expand">
+                    </span>
+                </div>
+                <div class="answer" id="answer5">You will be eligible for CIRCLE cashback every time you buy medicines, pharmacy products and Apollo products except when you have utilised certain specific coupons available on Apollo 24|7 for which CIRCLE cashback would not be applicable. The terms of such specific coupons shall supersede the CIRCLE cashback. We also have discounts on selected doctor consultations and diagnostic tests. Cashback will be credited to your OneApollo Health Credits as soon as a transaction gets completed.</div>
+            </div>
+            <div class="faq-item" onclick="toggleAnswer(6)">
+                <div class="question">
+                    <span class="question-text">How can I use CIRCLE cashback?</span>
+                    <span class="arrow">
+                      <img src="https://images.apollo247.in/images/ic_accordion_down.svg" alt="Expand">
+                    </span>
+                </div>
+                <div class="answer" id="answer6">You can use your CIRCLE cashback as Health Credits to save on your pharmacy orders; and on diagnostic tests on Apollo 24|7.</div>
+            </div>
+            <div class="faq-item" onclick="toggleAnswer(7)">
+                <div class="question">
+                    <span class="question-text">Can I cancel CIRCLE membership after purchasing it?</span>
+                    <span class="arrow">
+                      <img src="https://images.apollo247.in/images/ic_accordion_down.svg" alt="Expand">
+                    </span>
+                </div>
+                <div class="answer" id="answer7">CIRCLE membership is non-refundable, however you can contact us using the ''Need Help'' section in My Account and we will try our best to help you out.</div>
+
+            </div>
+            <div class="faq-item" onclick="toggleAnswer(8)">
+                <div class="question">
+                    <span class="question-text">Can the offers change after I buy the membership?</span>
+                    <span class="arrow">
+                      <img src="https://images.apollo247.in/images/ic_accordion_down.svg" alt="Expand">
+                    </span>
+                </div>
+                <div class="answer" id="answer8">Yes, it’s possible but we always aim to upgrade benefits so that you get the best out of your CIRCLE membership.</div>
+
+            </div>
+            <div class="faq-item" onclick="toggleAnswer(9)">
+                <div class="question">
+                    <span class="question-text">What does CIRCLE cashback mean? Is it different from OneApollo cashback?</span>
+                    <span class="arrow">
+                      <img src="https://images.apollo247.in/images/ic_accordion_down.svg" alt="Expand">
+                    </span>
+                </div>
+                <div class="answer" id="answer9">Every time you make using CIRCLE benefits, you will be rewarded with CIRCLE Cashback that you can use to purchase medicines and Apollo brand products. It''s the same as OneApollo Cashback.</div>
+            </div>
+            <div class="faq-item" onclick="toggleAnswer(10)">
+                <div class="question">
+                    <span class="question-text">Can CIRCLE cashback can be used for a virtual consultation?</span>
+                    <span class="arrow">
+                      <img src="https://images.apollo247.in/images/ic_accordion_down.svg" alt="Expand">
+                    </span>
+                </div>
+                <div class="answer" id="answer10">Not yet, but you can use your CIRCLE cashback as Health Credits to order medicines, any healthcare products or book lab tests from Apollo 24|7.</div>
+            </div>
+            <div class="faq-item" onclick="toggleAnswer(11)">
+                <div class="question">
+                    <span class="question-text">Will some of these features be a part of the Apollo Hospital experience as well?</span>
+                    <span class="arrow">
+                      <img src="https://images.apollo247.in/images/ic_accordion_down.svg" alt="Expand">
+                    </span>
+                </div>
+                <div class="answer" id="answer11">Not as of now, but we are working towards it so you get the best out of your CIRCLE membership.</div>
+            </div>
+            <div class="faq-item" onclick="toggleAnswer(12)">
+                <div class="question">
+                    <span class="question-text">Are CIRCLE benefits applicable on hospital visits booked through Apollo 24|7?</span>
+                    <span class="arrow">
+                      <img src="https://images.apollo247.in/images/ic_accordion_down.svg" alt="Expand">
+                    </span>
+                </div>
+                <div class="answer" id="answer12">No, CIRCLE benefits are applicable only in cases of virtual consultation with doctors on the Apollo 24|7 app, but we are working towards it so you get the best out of your CIRCLE membership</div>
+            </div>
+            <div class="faq-item" onclick="toggleAnswer(13)">
+                <div class="question">
+                    <span class="question-text">What is the validity of Health Credits?</span>
+                    <span class="arrow">
+                      <img src="https://images.apollo247.in/images/ic_accordion_down.svg" alt="Expand">
+                    </span>
+                </div>
+                <div class="answer" id="answer13">The standard validity of Health Credits is 1 year from the date of earning, unless otherwise specified. Health Credits earned by CIRCLE members via coupons are valid for 30 days.</div>
+            </div>
+            <div class="faq-item" onclick="toggleAnswer(14)">
+                <div class="question">
+                    <span class="question-text">How many Health Credits can I use against a transaction?</span>
+                    <span class="arrow">
+                      <img src="https://images.apollo247.in/images/ic_accordion_down.svg" alt="Expand">
+                    </span>
+                </div>
+                <div class="answer" id="answer14">You can pay up to 50% of the transaction value via Health Credits.</div>
+            <!-- Add more FAQ items as needed -->
+            </div>
+            <div class="faq-item" onclick="toggleAnswer(15)">
+                <div class="question">
+                    <span class="question-text">Do we get a free delivery on all orders?</span>
+                    <span class="arrow">
+                      <img src="https://images.apollo247.in/images/ic_accordion_down.svg" alt="Expand">
+                    </span>
+                </div>
+                <div class="answer" id="answer15">Delivery will be free for all orders above Rs.250.</div>
+            </div><!-- Add more FAQ items as needed -->
+        </div>
+
+        <div class="terms">
+            <h4 class="terms-heading">TERMS &amp; CONDITIONS - CIRCLE MEMBERSHIP PROGRAM</h4>
+            <ul class="jss996">
+                <li>CIRCLE Membership Programme is the marketing programme (“Programme”) offered by Apollo 24|7, a digital healthcare platform managed by Apollo Healthco Limited (“AHL”).</li>
+                <li>The validity of the Programme (“Term”) will be according to the plan selected and enrolled by the customer (“Member”).</li>
+                <li>The discounts and cashbacks offered under the Programme shall be applied at the time of payment checkout by the Member.</li>
+                <li>The offerings under the Programme will differ with the different categories as per the selection made by the Member.</li>
+                <li>The Programme is non-transferable.</li>
+                <li>After completing the transaction you will be able to enjoy the benefits of the Programme within 24 hours.</li>
+                <li>By enrolling in the Programme, a Member consents to allow AHL to use, disclose, store, process, transfer, etc., his/her personal and other sensitive personal data or information as provided by the Member at the time of enrolment by AHL or any of its subsidiaries, associates, affiliates or group companies.</li>
+                <li>As a prerequisite to becoming a Member of the Programme, a Member is required to provide mandatory information including full name, active, and valid Indian mobile number.</li>
+                <li>He/she shall be governed by the Terms and Conditions including frequently asked questions as may be prescribed for Membership from time to time.</li>
+                <li>The Program will be issued solely at the discretion of the management and the final discretion on all matters relating to the Membership shall rest with AHL. The Programme cannot be availed for transactions carried out at outlets/physical stores operated by AHL in hospitals and outlets operated by Apollo Pharmacy Limited (“APL”) in Apollo Cradle &amp; Children’s Hospital, Apollo Spectra Hospitals and in stores at airports and other corporate hospitals.</li>
+                <li>AHL reserves the right to add, alter, amend, modify and revise the aforesaid terms and conditions including frequently asked questions at any time and in its sole discretion without prior notice, intimation and permission.</li>
+                <li>Benefits and offers available through the Programme may change or can be withdrawn/discontinued (either temporarily or permanently) without prior notice, intimation or permission. Member / Customer agrees that AHL will not be responsible or liable, in any manner, for any liability, losses, damages, injuries or expenses incurred  by the Member / Customer, arising from such change or withdrawal or use of such offers. Further, the Member / Customer understands and agrees that, he/she may be denied the benefits of Circle Membership, if such Person utilises any discount coupons available at the time, which shall be at the sole discretion of AHL, and that the person may not be entitled to claim any benefits of Circle Membership with usage of such discount coupons.</li>
+                <li>The Programme cannot be cancelled by the Member and the Member is not eligible for refund and cancellation of the fees. In special circumstances, the request for cancellation may be considered by the management on a case to case basis and the fees may be refunded to the Member at the sole discretion of the management.</li>
+                <li>Any disputes arising out of the Programme shall be governed by the laws of India. Any legal action or proceedings related to this Programme shall be subject to the exclusive jurisdiction of the courts at Chennai. All disputes shall be subject to arbitration by a sole arbitrator appointed by AHL for this purpose. The proceedings of the arbitration shall be conducted as per the provisions of the Arbitration and Conciliation Act, 1996 or any statutory modifications and alterations thereto. The place of arbitration shall be at Chennai and the language of the arbitration shall be English. The existence of a dispute, if at all, shall not constitute a claim against AHL.</li>
+                <li>If any Member has any grievance, comment, question or suggestion regarding any of the terms of this Program, please contact our team through the help section available in My Account page.</li>
+                <li>If any provision of these Terms and conditions is deemed invalid, unlawful, void or for any other reason unenforceable, then that provision shall be deemed severable from these Terms and conditions and shall not affect the validity and enforceability of any of the remaining terms.</li>
+                <li>The Member accepts and acknowledges that AHL shall not be liable for any loss or damage caused to the Member as a result of delay or default or deficiency or failure in the services as a result of any natural disasters, fire, riots, civil disturbances, actions or decrees of governmental bodies, communication line failures (which are not caused due to the fault of AHL or the third-party service providers), or any other delay, default, deficiency or failure which arises from causes beyond AHL’s reasonable control.</li>
+                <li>By accepting these Terms and Conditions, the Member, also accepts and agrees to be bound by frequently asked questions, AHL policies, including Apollo 24|7 Terms &amp; Conditions (as set out here https://www.apollo247.com/terms) and the Privacy Policy (as set out on our website https://www.apollo247.com/privacy). The Member also accepts and agrees to be bound by APL terms and conditions as set out here https://www.apollopharmacy.in/terms and such other rules, guidelines, policies, terms and conditions as are relevant under the applicable law(s) in India and other jurisdictions for the purposes of availing any of the services, and such rules, guidelines,  policies, terms and conditions shall be deemed to be incorporated into, and considered as part and parcel of these Terms and Conditions.</li>
+            </ul>
+        </div>
+
+       
+    </div>
+    <div class="footer">
+        <h2>Apollo</h>
+    </div>
+
+
+</body>
+
+</html>
