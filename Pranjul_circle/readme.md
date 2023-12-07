@@ -11,18 +11,16 @@ you through your website.
 3. [Navigation](#navigation)
 4. [Home Section](#home-section)
    ![banner](https://github.com/MDAEJA/Assigment_Apollo_repo/assets/65394857/4022e9b9-283a-417f-ae09-5ded4b2c579a)
-5. [Intro Section](#intro-section)
-   ![image](https://github.com/MDAEJA/Assigment_Apollo_repo/assets/149299483/e272e4d0-b306-4373-b86e-f03a4bcd3590)
-6. [About Section](#about-section)
-7. [Services Section](#services-section)
-   ![image](https://github.com/MDAEJA/Assigment_Apollo_repo/assets/149299483/32a55110-98fe-4173-b230-4ae93d805789)  
-8. [Projects Section](#projects-section)
-   
-9. [Health Blog](#health-blog)
-    ![image](https://github.com/MDAEJA/Assigment_Apollo_repo/assets/149299483/fafd9e8f-4b6c-4e1a-b065-af55c73f75a5)
-10.[Apollo Facitities](#apollo-facilities)
+5. [Benefits Section](#benefits-section)
+![Screenshot 2023-12-07 212013](https://github.com/MDAEJA/Assigment_Apollo_repo/assets/65394857/b17f159e-7e0a-4ca4-b42e-0db8a3e109df)
+6.[Upgrade Section](#upgrade-section)
+![Screenshot 2023-12-07 212458](https://github.com/MDAEJA/Assigment_Apollo_repo/assets/65394857/38435192-a31a-4335-902d-28f698a208db)
+7. [Faq Section](#faq-section)
+   ![Screenshot 2023-12-07 212814](https://github.com/MDAEJA/Assigment_Apollo_repo/assets/65394857/95f82630-7478-48c7-a57b-e732c70d4a2a)
+8. [T&C Section](#t%c-section)
+   ![Screenshot 2023-12-07 212943](https://github.com/MDAEJA/Assigment_Apollo_repo/assets/65394857/06f5353a-c20f-45df-bd53-a98695426829)
 10. [Footer](#footer)
-   ![image](https://github.com/MDAEJA/Assigment_Apollo_repo/assets/149299483/6fc18577-60d8-493b-b9ec-510acb0b5ba1)
+![Screenshot 2023-12-07 213002](https://github.com/MDAEJA/Assigment_Apollo_repo/assets/65394857/ed8a484c-215f-40b4-90e1-8214f87ff360)
 
 
   Let's start by exploring the **Introduction** section of your website.
