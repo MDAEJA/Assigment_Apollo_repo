@@ -21,8 +21,9 @@ you through your website.
 9. [Health Blog](#health-blog)
     ![image](https://github.com/MDAEJA/Assigment_Apollo_repo/assets/149299483/fafd9e8f-4b6c-4e1a-b065-af55c73f75a5)
 10.[Apollo Facitities](#apollo-facilities)
-11. [Footer](#footer)
+10. [Footer](#footer)
    ![image](https://github.com/MDAEJA/Assigment_Apollo_repo/assets/149299483/6fc18577-60d8-493b-b9ec-510acb0b5ba1)
+
 
   Let's start by exploring the **Introduction** section of your website.
 
