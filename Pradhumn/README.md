@@ -45,7 +45,8 @@ The "Upper" section includes an image of the health test, the name of the test (
 
 The "Lower" section includes details about the pricing, such as cashback, actual price, discounted price, and the percentage of discount. It also includes a button labeled "Add," which suggests an action related to adding the health test to a cart or similar functionality.
 
-![Screenshot 2023-12-07 145603](https://github.com/MDAEJA/Assigment_Apollo_repo/assets/133633873/ca5a4ce5-ffc8-4863-8e19-2d7eab7cd836)
+![Screenshot 2023-12-07 172823](https://github.com/MDAEJA/Assigment_Apollo_repo/assets/133633873/591eed11-bc99-4b42-aa97-d102db50c6c5)
+
 
 ## Vital Organs Section 
 
@@ -70,7 +71,7 @@ Below this I use <IMG> tag wrapper in <DIV> container for display this Image tha
 
 <p>: The paragraph tag is used to define paragraphs of text. There are three <p> tags in the first container, each representing a different part of the content.
 
-# This section of a webpage that provides detailed information about Apollo Diagnostic services, including lab tests at home. It is organized into different paragraphs, each addressing specific aspects such as the reliability of Apollo Diagnostics, reasons to choose them, the process of sample collection, and additional services offered. The content emphasizes convenience, quality, affordability, and the user-friendly nature of Apollo 24|7 services.
+This section of a webpage that provides detailed information about Apollo Diagnostic services, including lab tests at home. It is organized into different paragraphs, each addressing specific aspects such as the reliability of Apollo Diagnostics, reasons to choose them, the process of sample collection, and additional services offered. The content emphasizes convenience, quality, affordability, and the user-friendly nature of Apollo 24|7 services.
 
 ![Screenshot 2023-12-07 145803](https://github.com/MDAEJA/Assigment_Apollo_repo/assets/133633873/fc66941e-02b1-40db-8a49-bb52e017e659)
 
