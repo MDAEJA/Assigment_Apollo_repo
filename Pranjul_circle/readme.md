@@ -10,7 +10,7 @@ you through your website.
    ![image](https://github.com/MDAEJA/Assigment_Apollo_repo/assets/149299483/4458bf78-c5e3-4f16-9bcf-bfaf3c1b611c)
 3. [Navigation](#navigation)
 4. [Home Section](#home-section)
-   ![image](https://github.com/MDAEJA/Assigment_Apollo_repo/assets/149299483/f605284c-1c20-4746-a6a3-5ff16492818d)
+   
 5. [Intro Section](#intro-section)
    ![image](https://github.com/MDAEJA/Assigment_Apollo_repo/assets/149299483/e272e4d0-b306-4373-b86e-f03a4bcd3590)
 6. [About Section](#about-section)
