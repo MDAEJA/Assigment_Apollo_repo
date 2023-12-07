@@ -10,8 +10,10 @@ Cart Icon: Represents the user's shopping cart.
 Profile Icon: Links to the user's account/profile.
 Navigation Toggle: Toggle button for mobile navigation.
 
-![Screens![Screenshot 2023-12-07 145930](https://github.com/MDAEJA/Assigment_Apollo_repo/assets/133633873/d7ac0916-87f5-46ee-8099-0e7a888e9fcb)
-hot]()
+![Screenshot 2023-12-07 145930](https://github.com/MDAEJA/Assigment_Apollo_repo/assets/133633873/711c9f3b-b932-4ecf-8f39-4d5321999c3c)
+
+![Screenshot 2023-12-07 145533](https://github.com/MDAEJA/Assigment_Apollo_repo/assets/133633873/e67e1726-acf9-429f-aaf2-fbea797e0283)
+
 
 ## Health Check Categories
 # Grid Section
