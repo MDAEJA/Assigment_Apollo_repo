@@ -1,8 +1,99 @@
+
 *{
-   margin: 0;
-   padding: 0;
-   font-family: ibm_plex_sanssemibold, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Inter, sans-serif;
 }
+body{
+    background-color: #dcdfce;
+}
+header {
+    top: 0;
+    left: 0;
+    z-index: 5;
+    margin: 0px 0px;
+    /* margin-left: 50px; */
+    /* width: 66%; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: azure;
+    margin-left: -2px;
+    width:70% ;
+  }
+  /* header img{
+    width: 80px;
+    margin-right: 20px;
+   
+  } */
+  .apoloimg img{
+    width: 100px;
+    margin-left: 20px;
+  }
+  .addto{
+    height: 100%;
+    cursor: pointer;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .nav{
+    margin-left: 30px;
+  }
+  .navbar{
+    display: flex;
+    margin: 5px 5px;
+  }
+  .navbar1{
+    margin: 10px 5px;
+  }
+  .navbar1 a{
+    text-decoration: none;
+    border-bottom: 1px solid #02475b;
+    padding: 0 0 3px;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 10px;
+    text-transform: uppercase;
+    margin: 0 0 3px;
+    display: inline-block;
+    text-align: center;
+    color: black;
+    margin-left: 10px;
+  }
+  .navbar1 p{
+    font-size: 13px;
+    line-height: 16px;
+    opacity: .6;
+    /* display: block; */
+    color: #02475b;
+    cursor: pointer;
+    margin-left: 10px;
+  }
+  .navbar1 p:hover,.navbar1 a:hover {
+    background-color: #dcdfce;
+  }
+  
+
+  .addtocart img{
+    /* margin-left: 5px; */
+    width: 45px;
+    height: 30px;
+    padding: 0 0 3px;
+    margin: 0 15px 3px;
+    margin-top: 20px;
+    cursor: pointer;
+    color: #02475b;
+    /* margin-top: 30px; */
+  }
+  .signup{
+    width: 70px;
+    height: 40px;
+    margin-top: 10px;
+    cursor: pointer;
+  }
 body{
     width: 100%;
     display: flex;
@@ -14,6 +105,7 @@ body{
     width: 70%;
     height: auto;
     margin-bottom: 5rem;
+    margin-top: -31px;
 }
 
 .header{
