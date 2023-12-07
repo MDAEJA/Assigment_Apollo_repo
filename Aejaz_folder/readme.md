@@ -16,26 +16,28 @@ you through your website.
 
 5. [Intro Section](#intro-section)
    ![image](https://github.com/MDAEJA/Assigment_Apollo_repo/assets/149299483/e272e4d0-b306-4373-b86e-f03a4bcd3590)
-6. [About Section](#about-section)
-   
-
-7 [Services Section](#services-section)
-
+6. [About Section](#about-section)\
+7. [Services Section](#services-section)
+   ![image](https://github.com/MDAEJA/Assigment_Apollo_repo/assets/149299483/8f2738b4-358e-4797-bc1c-fb043e47ee38)
    ![image](https://github.com/MDAEJA/Assigment_Apollo_repo/assets/149299483/20f38ed1-b69c-46e6-a3b5-37ae7224c3c0)
-   ![Projects section](https://github.com/shah9380/project-Aria/assets/130676464/c2c004dc-f256-4948-b968-8ed5459c1a6c)
-   ![image](https://github.com/MDAEJA/Assigment_Apollo_repo/assets/149299483/6bdc8901-077c-45d6-99fd-b83b3b5b106f) ![image](https://github.com/MDAEJA/Assigment_Apollo_repo/assets/149299483/0e8906fa-035b-4f50-b87e-fd53d1703349)
-
-
+   
 8. [Projects Section](#projects-section)
-    
-    ![image](https://github.com/MDAEJA/Assigment_Apollo_repo/assets/149299483/8f2738b4-358e-4797-bc1c-fb043e47ee38)
-   ![image](https://github.com/MDAEJA/Assigment_Apollo_repo/assets/149299483/32a55110-98fe-4173-b230-4ae93d805789)
+   ![image](https://github.com/MDAEJA/Assigment_Apollo_repo/assets/149299483/32a55110-98fe-4173-b230-4ae93d805789)   
+   ![image](https://github.com/MDAEJA/Assigment_Apollo_repo/assets/149299483/6bdc8901-077c-45d6-99fd-b83b3b5b106f)
+   ![image](https://github.com/MDAEJA/Assigment_Apollo_repo/assets/149299483/0e8906fa-035b-4f50-b87e-fd53d1703349)
 
+
+9. [Projects Section](#projects-section)
+10. ![image](https://github.com/MDAEJA/Assigment_Apollo_repo/assets/149299483/32a55110-98fe-4173-b230-4ae93d805789)
+
+    
+    
+   
 
 
 
    
-9. [Health Blog](#health-blog)
+12. [Health Blog](#health-blog)
     ![image](https://github.com/MDAEJA/Assigment_Apollo_repo/assets/149299483/fafd9e8f-4b6c-4e1a-b065-af55c73f75a5)
 
 10.[Apollo Facitities](#apollo-facilities)
