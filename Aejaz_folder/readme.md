@@ -16,19 +16,18 @@ you through your website.
 
 5. [Intro Section](#intro-section)
    ![image](https://github.com/MDAEJA/Assigment_Apollo_repo/assets/149299483/e272e4d0-b306-4373-b86e-f03a4bcd3590)
-6. [About Section](#about-section)\
+6. [About Section](#about-section)
 7. [Services Section](#services-section)
    ![image](https://github.com/MDAEJA/Assigment_Apollo_repo/assets/149299483/8f2738b4-358e-4797-bc1c-fb043e47ee38)
-   ![image](https://github.com/MDAEJA/Assigment_Apollo_repo/assets/149299483/20f38ed1-b69c-46e6-a3b5-37ae7224c3c0)
+  
    
 8. [Projects Section](#projects-section)
    ![image](https://github.com/MDAEJA/Assigment_Apollo_repo/assets/149299483/32a55110-98fe-4173-b230-4ae93d805789)   
-   ![image](https://github.com/MDAEJA/Assigment_Apollo_repo/assets/149299483/6bdc8901-077c-45d6-99fd-b83b3b5b106f)
-   ![image](https://github.com/MDAEJA/Assigment_Apollo_repo/assets/149299483/0e8906fa-035b-4f50-b87e-fd53d1703349)
+   
 
 
 9. [Projects Section](#projects-section)
-10. ![image](https://github.com/MDAEJA/Assigment_Apollo_repo/assets/149299483/32a55110-98fe-4173-b230-4ae93d805789)
+   ![image](https://github.com/MDAEJA/Assigment_Apollo_repo/assets/149299483/32a55110-98fe-4173-b230-4ae93d805789)
 
     
     
