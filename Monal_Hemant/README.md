@@ -2,7 +2,8 @@ Apollo Pharmacy UI Clone
 Welcome to our thrilling project developed as part of the Full Stack Development course with Geekster, where we're diving deep into the HTML and CSS module. We're proud to present our rendition of the Apollo Pharmac website UI and invite you to join us on this exciting journey!
 
 Repo link
-[https://hemantdubey007.github.io/Project/](https://github.com/MDAEJA/Assigment_Apollo_repo.git)
+[https://hemantdubey007.github.io/Project/](https://github.com/MDAEJA/Assigment_Apollo_repo.git) 
+https://github.com/Nagar-Monal/pro
 
 Hosted link
 https://mdaeja.github.io/Assigment_Apollo_repo/Aejaz_folder/
