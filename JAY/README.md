@@ -17,7 +17,11 @@ Several attributes and classes are used for styling and functionality:
 - `.signin`: Styling for the heading section.
 -  - `.name`: Specific styling for the main content area.
 - `.button`: Styling for buttons.
--
+
+- ## Disclaimer
+
+This README is based on observation and may not encompass all tags, classes, or functionalities used in the webpage's source code.
+
 -![Image 2023-12-07 at 7 04 16 PM](https://github.com/MDAEJA/Assigment_Apollo_repo/assets/127874896/6d0cd6b4-69f5-4445-86ef-b4434cad3ac5)
 
 
