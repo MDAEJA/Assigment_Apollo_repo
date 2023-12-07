@@ -518,6 +518,7 @@ CSS Properties for `<button>`:
 
 CSS Properties for `<a>`:
    - `text-decoration`, `color`, `transition`: These properties style the link and define hover effects.
-[Feel Free to Explore My WebSite](https://github.com/MDAEJA/Assigment_Apollo_repo.git/)
+     
+[Feel Free to Explore My WebSite](https://github.com/MDAEJA/Assigment_Apollo_repo.git)
 
 
