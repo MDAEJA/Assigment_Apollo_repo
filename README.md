@@ -136,29 +136,29 @@ Throughout the development of our Lalpathlabs Clone Website Project, our team en
 
 ![image](https://github.com/MDAEJA/Assign_major_project/assets/149299483/94323ef3-48fe-4258-b34e-a9c0a9854869)
 
-***UI Description: The "Medicine" section provides an interface healthcare professionals. The UI ensures Medicines can access resources like Baby Care Product, lab information, event details, quality standards, and educational materials effortlessly. It may include dedicated portals for doctors to manage patient data and appointments.***
+***UI Description: The "Medicine" section provides an interface healthcare professionals. The UI ensures Medicines can access resources like normal Tablets,Baby Care Product, with an prper details, quality standards, and educational materials effortlessly.***
 
 **3. Lab Test UI**
 
 ![image](https://github.com/MDAEJA/Assign_major_project/assets/149299483/eaf42f73-f439-4027-afef-b71f64d81cf6)
 
 
-***UI Description: The "Lab Test" section aims to engage proper test faclities to the pateints. The UI presents information aboout Lab Test, benefits, and contact details clearly. It may include forms or contact methods for LabTest inquiries.***
+***UI Description: The "Lab Test" section aims to engage proper test faclities to the pateints. The UI presents information aboout Lab Test in which you can fixed your date to scan of any diagnosis. It may include forms or contact methods for LabTest inquiries.***
 
-**4. Health Recors UI**
+**4. Health Resourse UI**
 
 ![image](https://github.com/MDAEJA/Assign_major_project/assets/149299483/bee2025a-8d12-4d91-9d96-62443a7f9f3e)
 
 
-***UI Description: The "Health Records" section is often one of the most visited on a website. The UI presents the Patients history, mission, values, and leadership. It may include interactive timelines, videos, and team member profiles to engage users effectively.***
-Business Partnership Section UI - Key Features
+***UI Description: The "Health Records" section is often one of the most visited on a website. The UI presents the Patients history, mission, values. In which you can search history of particular patients.***
+
 
 **5. Circle UI**
 
 ![image](https://github.com/MDAEJA/Assign_major_project/assets/149299483/40855611-bb98-43b1-a6dd-eddc31149864)
 
 
-***UI Description: The "Circle" section  we provide home delivery . The UI provides access to Delivry option, ,. It may include interactive charts and graphs for financial data visualization.***
+***UI Description: The "Circle" section  we provide home delivery . were you can order your medicines and healthcare rsources from home.***
 
 **6. CONSULT US UI**
       ![image](https://github.com/MDAEJA/Assign_major_project/assets/149299483/b84a5f8d-d2c3-41f9-af32-e4a4bcbb8520)
@@ -171,8 +171,8 @@ Business Partnership Section UI - Key Features
 
 ## **CONCLUSION**
 
-***In the process of recreating the user interface (UI) of the Apollo 24/7 website, we've aimed to capture the essence of a leading pathology laboratory service provider.
-Our project encompasses various sections, including Home, Doctors, Medicine, Health Rsource, Circle, Contact Us, Blogs, FAQs, and more.***
+***In the process of recreating the user interface (UI) of the Apollo 24/7 website, we've aimed to design these platform to make healthresources more convenient and readily available,allowing users to acess medical assistances and services from the comfort of their Home, contributing to the overall improvement of healthcare accessibility and efficiency.***
+***Our project encompasses various sections, including Home, Doctors, Medicine, Health Rsource, Circle, Contact Us, Blogs, FAQs, and more.***
 
 **Achievements**
 - Faithful Representation: We have strived to provide a faithful representation of the Apollo 24/7 website, mirroring its visual aesthetics, layout, and key functionalities.
