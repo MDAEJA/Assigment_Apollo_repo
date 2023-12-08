@@ -3,7 +3,7 @@
 ### Welcome to the interactive README for your website project! In this README, we'll explore the structure of your website by discussing the different sections and tags used in your HTML file (index.html) and the corresponding styling in your CSS file (styles.css). We'll also include screenshots to visually guide you through your website..
 ---
 
-## Hosted Link: [Click Here](https://github.com/MDAEJA/Assigment_Apollo_repo.git)
+## Hosted Link: [Click Here](https://mdaeja.github.io/Assigment_Apollo_repo/Aejaz_folder/)
 ---
 
 ## Table of Contents:-
@@ -45,7 +45,7 @@ The Apollo 24/7 Website Clone is a web application that mimics the functionality
 ---
 
 ## Objectives:
-- UI Recreation :  Create a responsive and visually accurate replica of the Dr. Lal PathLabs website using HTML, CSS, and the Tailwind CSS framework.
+- UI Recreation :  Create a responsive and visually accurate replica of the Apollo 24/7 website using HTML, CSS, and the Tailwind CSS framework.
 - Functionality :  Implement essential functionalities such as test booking, test package displays, lab locator, and contact information retrieval.
 - Learning      :  Gain hands-on experience in web development, including HTML structure, CSS styling, and responsive design.
 ---
@@ -57,7 +57,7 @@ Used for structuring the web pagesincluding headers, navigation bars, content se
  - Applied for styling and layout.
  - Tailwind CSS: used for framework for rapid UI development, implementing responsive design and styling components efficiently.
 3.  **JavaScript:**
- - JavaScript Libraries Used : Our Lalpathlabs Clone Website Project relies on several external libraries and dependencies to enhance its functionality and features. Below is a list of these libraries along with their purposes:
+ - JavaScript Libraries Used : Our Apollo 24/7 Website Project relies on several external libraries and dependencies to enhance its functionality and features. Below is a list of these libraries along with their purposes:
 4.  **Flickity-v2**
  - Description: Flickity is a modern and highly flexible JavaScript library designed for creating responsive, touch-friendly sliders and carousels on websites and web applications.
  - Usage: It is used to implement some touch, responsive, flickable carousels and enhance the functionality of our website.
@@ -77,7 +77,7 @@ Used for structuring the web pagesincluding headers, navigation bars, content se
 ---
 
 ## Getting Started:
-- To get started with the PathLab Website Clone, follow these steps:
+- To get started with the Apollo 24/7 Website Clone, follow these steps:
   1. **Clone the Repository:** 
   2. **Open the Project Directory:**
   3. **Open in a Code Editor:** Open the project folder in your preferred code editor.
